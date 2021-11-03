@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">lab01-Calc Gavrilov</string>
+    <string name="text_A">A:</string>
+    <string name="text_B">B:</string>
+    <string name="text_result">Result:</string>
+    <string name="Addition">Add</string>
+    <string name="Subtraction">Sub</string>
+    <string name="Multiply">Mult</string>
+    <string name="Divide">Div</string>
+    <string name="Sinus">Sin</string>
+    <string name="Cosine">Cos</string>
+    <string name="Tangent">Tan</string>
+    <string name="Square_root">Sqrt</string>
+    <string name="Power">Pow</string>
+    <string name="App_creator">393 Gavrilov Calculator</string>
+</resources>
