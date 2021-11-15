@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
+//393 Gavrilov Calculator
 public class MainActivity extends AppCompatActivity {
 
     TextView ta;
@@ -21,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
         tc = findViewById(R.id.textView_result);
     }
 
+    //Метод для операций с двумя числами
     public void onOperation_click(View vi)
     {
         String sa = ta.getText().toString();
@@ -60,6 +62,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    //Метод для операций с одним числом
     public void onSingleOperation_click(View vi)
     {
         String sa = ta.getText().toString();
